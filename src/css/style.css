@@ -1,11 +1,39 @@
-@media screen and (width >= 320px) {
+@media screen and (width >=320px) {
 	#some-id {
 		color: red;
 	}
 }
 
-@media screen and (width >= 500px) {
+@media screen and (width >=500px) {
 	#some-id {
 		color: red;
 	}
+}
+
+
+
+h1 {
+	font-family: Nunito;
+	font: size 80px;
+}
+
+h2 {
+	font-family: Nunito;
+	text-align: center;
+}
+
+p {
+	font-family: Nunito Sans;
+}
+
+ol {
+	font-family: Nunito;
+}
+
+ul {
+	font-family: Nunito Sans;
+}
+
+.HelpfulTips {
+	text-align: center;
 }
